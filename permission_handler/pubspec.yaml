@@ -19,10 +19,8 @@ dependencies:
   flutter:
     sdk: flutter
   meta: ^1.9.1
-  permission_handler_android:
-    path: ../permission_handler_android
-  permission_handler_platform_interface:
-    path: ../permission_handler_platform_interface
+  permission_handler_android: ^10.2.0
+  permission_handler_platform_interface: ^3.9.0
 
 dev_dependencies:
   lints: ^2.0.1
